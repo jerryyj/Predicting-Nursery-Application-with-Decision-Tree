@@ -5,4 +5,4 @@
 - Gain Ratio
 - Gini Index
 
-Decision Tree splitting by gini index resulted in the best performance for the model
+Decision Tree splitting by **gini index** resulted in the best performance for the model
